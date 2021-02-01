@@ -15,7 +15,7 @@ print(f"d {d}")
 print(f"e {e}")
 choice = input("Enter your choice: ")
 if choice == "a":
-    print("Your pokemon patner is Bulbasaur")
+    print("Your pokemon patner is Bulbasaur") # You can write whatever pokemon you like.
     print("Type: grass/poison")
     print("Attacks: vine whip, power whip, tackle, sludge bomb and a couple more.")
 elif choice == "b":
